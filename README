@@ -1,0 +1,44 @@
+Software: PacQuotes
+Version: 1.5
+Copyright (c) 2013-2014 Shashwat Mishra
+
+Thank You for downloading this free and compact web based software. It is a free to use software coded in PHP and HTML.
+
+-------------------------
+   F E A T U R E S:
+-------------------------
+* Simple to Configure
+* Compact in Size
+* No Database required
+* 50 pre-added quotes
+* Secure Quotes File
+* Simple Installation
+* Fast Initialization
+
+-------------------------
+   C R E D I T S:
+-------------------------
+* Code Drops
+* Shashwat Mishra
+
+-------------------------
+R E Q U I R E M E N T S:
+-------------------------
+* PHP 5.0+
+* Apache 2.4+
+* MySQL 4.2+
+
+-------------------------
+I N S T A L L A T I O N:
+-------------------------
+* Extract the Pacquotes1.3-nodb.zip archive to your root folder or wherever you want.
+* Open 'config.php' file and edit your website's details.
+* Run the 'subs.php' file by going to 'http://www.your-pacquotes-site.com/subs.php'.
+* After a Success Message delete the 'subs.php' file.
+* Now add more quotes to your site by editing the quotes 'txt' file. Add a new quote on a new line i.e. One Quote per Line.
+* Hurraaahhh!!! Your are done! Enjoy your newly installed software.
+* Now open the 'start.php' file and subscribe to our list to get the latest through e-mail.
+-----------------------------------------------------------
+(!) NOTE: Do Not Delete or hamper the licence.lic file.
+-----------------------------------------------------------
+
